@@ -5,4 +5,6 @@ def subtract(x, y):
 def multiply(x, y):
     return x * y
 
-console.log("mahesh change the code here !");
+
+
+console.log("now chandge chandan")        # Output: 8
